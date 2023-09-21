@@ -5,7 +5,7 @@ Charles University.
 The project consists of a model of the chemotactic cells using self-generated gradient and its analysis.
 
 The analysis of the project is available 
-[here](link) TODO add link(only in Czech).
+[here](https://github.com/prasilal/self_gen_gradient_model/blob/45e5c9f03d708c9eb5ad3a018780e75e43b09f61/template/main.pdf)(only in Czech).
 
 
 # Structure of The Repository
@@ -13,8 +13,7 @@ The repository is separated into two main parts:
 
 * `source/` - contains the source code of the model, configurations of each experiment, additional scripts and 
 the output data of the experiments
-* `template/` - contains LaTeX template of the model analysis, 
-figures and all supplementary materials
+* `template/` - contains LaTeX template of the model analysis and figures 
 
 
 # Abstract (EN)
