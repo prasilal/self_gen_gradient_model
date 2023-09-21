@@ -1,0 +1,12 @@
+digraph zg {
+fontname="Helvetica,Arial,sans-serif"
+node [fontname="Helvetica,Arial,sans-serif"]
+edge [fontname="Helvetica,Arial,sans-serif"]
+rankdir=LR;
+       v -> v [label="(:prod_r, 0.001)"];
+   v -> v [label="(:adhesion, 100)"];
+   v -> v [label="(:volume, 50, 50)"];
+   v -> v [label="(:perimeter, 2, 85)"];
+   v -> a [label="(:move, 12000)"];
+   v -> v [label="(:activity, 200, 30)"];
+}
